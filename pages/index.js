@@ -1,5 +1,6 @@
 export default function Home() {
   return (
+    // aq cuba je ni kot
     < div className="bg-blue-900 w-screen h-screen flex items-center">
       <div className="text-center w-full">
       <button className="bg-white p-2 px-4 rounded-lg">Login with Google</button>
@@ -8,4 +9,3 @@ export default function Home() {
    
   );
 }
- 
